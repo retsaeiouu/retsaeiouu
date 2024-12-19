@@ -18,6 +18,6 @@ I'm a second year BSIT student interested in **Backend Development** and **DevOp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,npm,maven,git,github,docker,cloudflare,vercel,supabase,postman,vite&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,npm,maven,git,github,docker,cloudflare,vercel,supabase,postman,vite&theme=dark" />
   </a>
 </p>
