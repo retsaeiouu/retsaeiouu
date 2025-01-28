@@ -1,8 +1,8 @@
 # Hello, I'm Richard Borja!
 
 I'm a second year BSIT student interested in **Backend Development** and **DevOps** roles. I also do Web Development as my hobby.
-- I primarily use Javascript in my projects.
-- You can message me in my [facebook](https://www.facebook.com/saeiouu) and [instagram](https://www.instagram.com/1nonlyrets/) accounts.
+- I primarily use Typescript in my projects.
+- Interact with me at [facebook](https://www.facebook.com/saeiouu) and [instagram](https://www.instagram.com/1nonlyrets/).
 
 ---
 
