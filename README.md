@@ -34,6 +34,6 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=retsaeiouu&show_icons=true&hide_border=true&langs_count=12&hide=lua&exclude_repo=Mongo&layout=compact)](https://github.com/retsaeiouu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=retsaeiouu&show_icons=true&hide_border=true&langs_count=14&hide=lua&exclude_repo=Mongo&layout=compact)](https://github.com/retsaeiouu)
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=retsaeiouu&exclude_repo=Mongo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=retsaeiouu&exclude_repo=Mongo&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" />
