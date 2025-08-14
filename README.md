@@ -17,7 +17,7 @@
 
 **Backend technologies**
 <br/>
-<img src="https://skillicons.dev/icons?i=typescript,express,nestjs,apollo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,express,nestjs&theme=dark" />
 
 **Database/ORM**
 <br/>
@@ -25,7 +25,7 @@
 
 **Web development**
 <br/>
-<img src="https://skillicons.dev/icons?i=angular,reactivex,react,nextjs,bootstrap,figma,sass,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,figma,sass,tailwind&theme=dark" />
 
 **Development tools/Deployments**
 <br/>
