@@ -2,15 +2,15 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/facebook.svg" />
-  <a href="https://www.facebook.com/retsbook">Richard Borja</a>
+  <a href="https://www.facebook.com/richard.luyang.borja">Richard Borja</a>
 </div>
 <div style={display: flex; align-items: center; gap: 1rem;}>
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg" />
-  <a href="https://www.linkedin.com/in/richard-borja">Richard Borja</a>
+  <a href="https://www.linkedin.com/in/richard-luyang-borja">Richard Borja</a>
 </div>
 <div style={display: flex; align-items: center; gap: 1rem;}>
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/instagram.svg" />
-  <a href="https://www.instagram.com/retstagramm">Richard Borja</a>
+  <a href="https://www.instagram.com/richard.luyang.borja">Richard Borja</a>
 </div>
 
 ## Skills
@@ -34,6 +34,6 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=retsaeiouu&show_icons=true&hide_border=true&langs_count=14&hide=lua&exclude_repo=Mongo&layout=compact)](https://github.com/retsaeiouu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluyangborja&show_icons=true&hide_border=true&langs_count=14&hide=lua&exclude_repo=Mongo&layout=compact)](https://github.com/retsaeiouu)
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=retsaeiouu&exclude_repo=Mongo&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=richardluyangborja&exclude_repo=Mongo&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" />
